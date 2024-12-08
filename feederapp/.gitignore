@@ -1,0 +1,16 @@
+.env
+/myenv
+
+
+# Logs
+*.log
+*.out
+*.pid
+
+# Django Migrations
+feeder_tracker/migrations/
+
+# System Files
+.DS_Store
+Thumbs.db
+db.sqlite3
